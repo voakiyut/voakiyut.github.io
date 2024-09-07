@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://voakiyut.github.io/sitemap/sitemap.txt
